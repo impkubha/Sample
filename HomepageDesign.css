@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+	width:100%;	
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif
+}
+.container{
+	background-color:#000000;
+	color:white;
+}
+.row>h2{
+	width:80%;	
+}
+.row a{
+	padding-left:100px;	
+}
